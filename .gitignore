@@ -13,6 +13,3 @@ main
 *.dll
 *.dylib
 *.exe
-
-# VS Code
-.vscode/

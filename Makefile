@@ -3,7 +3,7 @@
 CXX := g++
 CXXFLAGS := -std=gnu++17 -Wall -Wextra -Wshadow -O2 -pipe
 SRC := src/main.cpp
-BIN := main
+BIN := src/main
 
 .PHONY: all build run clean
 
